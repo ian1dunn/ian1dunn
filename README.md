@@ -1,7 +1,7 @@
 ## Hi, I'm Ian 👋
 > 📫 I'm currently seeking co-op or full-time opportunities to apply my skills and grow as a software developer. [Connect with me](https://www.linkedin.com/in/ian1dunn/)!
 
-### [Resume](./Dunn_Ian_Resume_Sum_2024_Final.pdf)
+### [Resume](https://ian1dunn.github.io/)
 > My most recent professional experience was leading a backend team as a Software Security Engineer on a government-sponsored project, enhancing software security with SBOM tools.
 
 
