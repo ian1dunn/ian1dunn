@@ -7,8 +7,8 @@
 
 ### My Work
 - **Current Projects:**
+  - [Link Shortener](https://github.com/ian1dunn/linkshortener) - A full-stack link shortener built in Django and React. To be hosted!
   - [MarketSNIPR](https://github.com/ian1dunn/MarketSNIPR) - A stock trading algorithm using deep reinforcement learning (when I have free time!).
-  - [Link Shortener](https://github.com/ian1dunn/linkshortener) - A full stack link shortener built in Django and React. To be hosted!
 - **Past Projects:**
   - [Wheelchair Project Data Collector](https://github.com/Neurotechnology-Exploration-Team/DataCollector) - Tkinter GUI application to capture brain activity in response to audiovisual stimuli for the RIT Neurotechnology Exploration Team.
   - [Spotify Statistics Analyzer](https://github.com/ian1dunn/spotify-statistics-analyzer) - Express web app to summarize a user's listening statistics over different time periods.
