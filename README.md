@@ -7,7 +7,7 @@
 
 ### My Work
 - **Current Projects:**
-  - [Link Shortener](https://github.com/ian1dunn/linkshortener) - A full-stack link shortener built in Django and React. To be hosted!
+  - [clipti.me](https://clipti.me/) - A full-stack link shortener built in Django and React. [Link to repo](https://github.com/ian1dunn/linkshortener)
   - [MarketSNIPR](https://github.com/ian1dunn/MarketSNIPR) - A stock trading algorithm using deep reinforcement learning (when I have free time!).
 - **Past Projects:**
   - [Wheelchair Project Data Collector](https://github.com/Neurotechnology-Exploration-Team/DataCollector) - Tkinter GUI application to capture brain activity in response to audiovisual stimuli for the RIT Neurotechnology Exploration Team.
