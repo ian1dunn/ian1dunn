@@ -2,9 +2,10 @@
 
 ### My Work
 - **Current Projects:**
-  - [clipti.me](https://clipti.me/) - A full-stack link shortener built in Django and React. [Link to repo](https://github.com/ian1dunn/linkshortener)
-  - [MarketSNIPR](https://github.com/ian1dunn/MarketSNIPR) - A stock trading algorithm using deep reinforcement learning (when I have free time!).
+  - [Out the Basement Toys & Vintage](https://outthebasement.com/) - A full-stack inventory system built for a client who just started his business. Code is private.
+  - MarketSNIPR - A stock trading algorithm using deep reinforcement learning (currently doing preprocessing, model training, and indicator research). Code is private.
 - **Past Projects:**
+  - [clipti.me](https://clipti.me/) - A full-stack link shortener built in Django and React. [Link to repo](https://github.com/ian1dunn/linkshortener)
   - [Wheelchair Project Data Collector](https://github.com/Neurotechnology-Exploration-Team/DataCollector) - Tkinter GUI application to capture brain activity in response to audiovisual stimuli for the RIT Neurotechnology Exploration Team.
   - [Spotify Statistics Analyzer](https://github.com/ian1dunn/spotify-statistics-analyzer) - Express web app to summarize a user's listening statistics over different time periods.
   - [Autonomous Parking Simulator](https://github.com/ian1dunn/CSCI331-DubinsGA) - Reinforcement learning agent written in Python to park a simple car within a time limit, avoiding obstacles and generating the final state and control histories. No external libraries used!
