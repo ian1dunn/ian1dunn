@@ -3,7 +3,7 @@
 ### My Work
 - **Current Projects:**
   - [Out the Basement Toys & Vintage](https://outthebasement.com/) - A full-stack inventory system built for a client who just started his business. Code is private.
-  - MarketSNIPR - A stock trading algorithm using deep reinforcement learning (currently doing preprocessing, model training, and indicator research). Code is private.
+  - MarketSNIPR - A stock trading algorithm using deep reinforcement learning. Currently doing preprocessing, model training, and indicator research. Code is private.
 - **Past Projects:**
   - [clipti.me](https://clipti.me/) - A full-stack link shortener built in Django and React. [Link to repo](https://github.com/ian1dunn/linkshortener)
   - [Wheelchair Project Data Collector](https://github.com/Neurotechnology-Exploration-Team/DataCollector) - Tkinter GUI application to capture brain activity in response to audiovisual stimuli for the RIT Neurotechnology Exploration Team.
